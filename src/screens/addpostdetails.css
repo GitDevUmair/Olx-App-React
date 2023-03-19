@@ -1,0 +1,11 @@
+.decsription{
+    margin: auto;
+    width: 80%;
+    border: 1px solid black;
+}
+#innerdiv{
+    margin-bottom: 20px;
+}
+.fields{
+    display: inline !important;
+}
